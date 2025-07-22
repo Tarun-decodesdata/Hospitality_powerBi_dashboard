@@ -46,12 +46,4 @@ The data is provided as part of the Codebasics challenge in CSV format and conta
 
 ---
 
-### ✅ Next Step:
-Now press **“Commit changes”** to save your README, and your repository is ready!
-
-Would you like me to help:
-- Create GitHub Pages for this repo?  
-- Suggest hashtags and caption for LinkedIn post?
-
-Let me know and we’ll continue!
 
