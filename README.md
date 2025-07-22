@@ -34,13 +34,12 @@ The data is provided as part of the Codebasics challenge in CSV format and conta
 > 🔗https://app.powerbi.com/groups/me/reports/eef3a1f5-f432-4a6b-b059-c9d138728faa/98f0f0df9eca20eb8579?experience=power-bi 
 
 ##  Project Screenshots
+Screenshots of key dashboards are available in this repository.
 
+ ## Connect with Me
 
+- [LinkedIn](https://www.linkedin.com/in/tarun-kumar-senapati-2a9407295)
 
-## 🔗 Connect with Me
-
-- [LinkedIn](your-linkedin-url)
-- [Portfolio](your-portfolio-site)
 
 ---
 
